@@ -1,0 +1,28 @@
+    1  ls
+    2  cd /root
+    3  ls
+    4  ls
+    5  cd server_lesson
+    6  ls
+    7  cd linux_practice2
+    8  ls
+    9  ls- a
+   10  ls -a
+   11  vi .gitignore
+   12  exit
+   13  ls
+   14  cd /root/server_lesson
+   15  ls
+   16  cd linux_practice2
+   17  ls
+   18  cat exec_command.log
+   19  history 300
+   20  cat exec_command.log
+   21  history 300 -w exec_command.log
+   22  history 300 >> exec_command.log
+   23  cat exec_command.log
+   24  rls
+   25  ls
+   26  rm exec_command.log
+   27  ls
+   28  history > exec_command.log
